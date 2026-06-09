@@ -15,3 +15,17 @@ Imagedehazingisafundamentaltaskinlow-level computervision,aimingtorestorehaze-fr
 ## Code
 
 Partial implementation and the pre-train models is available in the [code](PAG-Net0330/code) folder.  
+
+## Performance
+
+1. RESIDE-IN
+
+![](MFF-Net/picture/MMFlood_result.png)
+
+2. RESIDE-OUT
+
+![](MFF-Net/picture/sen1flood.jpg)
+
+3. NH-HAZE
+
+![](MFF-Net/picture/ETCI.jpg)
